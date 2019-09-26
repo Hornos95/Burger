@@ -10,6 +10,7 @@ public class Main {
                              " панировке, лук, сыр Чеддер, " +
                              "огурцы на пшеничной булочке с " +
                              "кукурузной посыпкой.";
+
         burger.weight = 167;
         burger.nutritionalValue=237;
         burger.protein=13.2;
