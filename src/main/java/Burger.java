@@ -1,8 +1,8 @@
 public class Burger {
+    int id;
     String name;
     String picture;
     String composition;
-    int id;
     int weight;
     int nutritionalValue;
     double protein;
